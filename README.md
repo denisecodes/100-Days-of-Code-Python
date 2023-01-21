@@ -4,6 +4,44 @@ This is where I am keeping all the codes for my final projects and any notes fro
 
 Feel free to test them out and you can follow my journey on [Twitter](https://twitter.com/denise_codes)
 
+## Intermediate projects
+
+### Day 27: Mile to Kilometers Converter
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-27-Mile-to%20Km-converter)
+
+### Day 26: NATO Alphabet Project
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-26-NATO-Alphabet-Project)
+
+### Day 25: US States Game
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-25-US-States-Game)
+
+### Day 24: Mail Merge Project
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-24-Mail-Merge-Project)
+
+### Day 23: Turtle Crossing Game
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-23-Turtle-Crossing-Game)
+
+### Day 22: Pong Game
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-22-Pong-Game)
+
+### Day 20 and Day 21: Snake Game
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-20-21-Snake%20Game)
+
+### Day 19: Turtle Race
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-19-Turtle-Race)
+
+### Day 18: Hirst Painting
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-18-Hirst-Painting)
+
+### Day 17: Quiz Project
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-17-Quiz-Project)
+
+### Day 16: Coffee Machine OOP
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-16-Coffee-Machine-OOP)
+
+### Day 15: Coffee Machine
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-15-Coffee-Machine)
+
 ## Beginner projects 
 
 ### Day 14: Higher Lower Game
