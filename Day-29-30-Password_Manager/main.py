@@ -83,13 +83,12 @@ def find_password():
     except FileNotFoundError:
         messagebox.showinfo(title="Error", message="No Data File Found")
     else:
-        for key in data:
-            if website == key:
-                email = data[website]["email"]
-                password = data[website]["password"]
-                messagebox.showinfo(title="Password", message=f"Email: {email} \n Password: {password}")
-            else:
-                messagebox.showinfo(title="Password", message="No details for the website exists")
+        if website in data:
+            email = data[website]["email"]
+            password = data[website]["password"]
+            messagebox.showinfo(title="Password", message=f"Email: {email} \n Password: {password}")
+        else:
+            messagebox.showinfo(title="Password", message="No details for the website exists")
     finally:
         website_entry.delete(0, END)
 
