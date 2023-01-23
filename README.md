@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
+### Day 29-30: Password Manager
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-29-Password_Manager)
+
 ### Day 28: Pomodoro
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-28-Pomodoro)
 
