@@ -53,7 +53,7 @@ while True:
             connection.sendmail(
                 from_addr=my_email,
                 to_addrs=my_email,
-                msg=f"Subject:ISS close to you\n\nThe ISS is above you in the SKy! LOOK UP!"
+                msg=f"Subject:ISS close to you\n\nThe ISS is above you in the Sky! LOOK UP!"
             )
 
 
