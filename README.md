@@ -6,7 +6,10 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
-### Day 32: ISS Overhead
+### Day 34: Quizzler App
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-34-Quizzler-App)
+
+### Day 33: ISS Overhead
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-33-ISS-Overhead)
 
 ### Day 32: Birthday Wisher
