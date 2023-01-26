@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
+### Day 36: Stock News
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-36-Stock-News)
+
 ### Day 35: Rain Alert
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-35-Rain-Alert)
 
