@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
+### Day 35: Rain Alert
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-35-Rain-Alert)
+
 ### Day 34: Quizzler App
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-34-Quizzler-App)
 
