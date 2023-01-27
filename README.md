@@ -6,7 +6,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
-### Day 36: Habit Tracking Project
+### Day 37: Habit Tracking Project
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-37-Habit-Tracking-Project)
 
 ### Day 36: Stock News
