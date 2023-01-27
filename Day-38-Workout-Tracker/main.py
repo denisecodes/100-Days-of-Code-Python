@@ -32,10 +32,6 @@ exercise_data = exercise_response.text
 #convert exercise data to a dict
 exercise_data = json.loads(exercise_data)
 
-
-USERNAME = "5b2a4377f68e31012fb839fad9f2e610"
-PROJECT_NAME = "workoutTracking"
-SHEET_NAME = "workouts"
 SHEETY_TOKEN = os.environ.get("TOKEN")
 
 today_date = dt.now().strftime(f'%Y/%m/%d')
