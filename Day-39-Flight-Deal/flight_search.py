@@ -41,8 +41,6 @@ class FlightSearch:
         }
         response = requests.get(url=TEQUILA_SEARCH_ENDPOINT, params=booking_token, headers=tequila_headers)
         data = response.json()['data'][0]
-        #departure_iata_code = (data['flyFrom'])
-        #print(departure_iata_code)
         try:
             data = response.json()["data"][0]
         except IndexError:
