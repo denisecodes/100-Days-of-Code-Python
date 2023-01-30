@@ -40,7 +40,6 @@ class FlightSearch:
             "one_for_city": 1,
         }
         response = requests.get(url=TEQUILA_SEARCH_ENDPOINT, params=booking_token, headers=tequila_headers)
-        data = response.json()['data'][0]
         try:
             data = response.json()["data"][0]
         except IndexError:
