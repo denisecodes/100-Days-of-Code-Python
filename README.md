@@ -4,7 +4,10 @@ This is where I am keeping all the codes for my final projects from 100 Days of 
 
 Feel free to test them out and you can follow my journey on [Twitter](https://twitter.com/denise_codes)
 
-## Intermediate projects
+## Intermediate+ projects
+
+### Day 39: Flight Deal
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-39-Flight-Deal)
 
 ### Day 38: Workout Tracker
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-38-Workout-Tracker)
@@ -26,6 +29,8 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ### Day 32: Birthday Wisher
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-32-Birthday-Wisher)
+
+## Intermediate projects
 
 ### Day 31: Flash Card App
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-31-Flash-Card-App)
