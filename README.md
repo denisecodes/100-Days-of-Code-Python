@@ -7,8 +7,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 ## Intermediate+ projects
 
 ### Day 40: Flight Club
-User sign up: [Click here](https://replit.com/@denisecancode/DeniseFlightClub?v=1)<br />
-Main repository: [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-40-Flight-Club)
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-40-Flight-Club)
 
 ### Day 39: Flight Deal
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-39-Flight-Deal)
