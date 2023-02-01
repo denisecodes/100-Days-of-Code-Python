@@ -49,7 +49,7 @@ class FlightSearch:
         try:
             data = response.json()["data"][0]
         except IndexError:
-            booking_token["max_stopovers"] = 4
+            booking_token["max_stopovers"] = 2
             response = requests.get(url=TEQUILA_SEARCH_ENDPOINT, params=booking_token, headers=tequila_headers)
             data = response.json()["data"][0]
             flight_data = FlightData(
