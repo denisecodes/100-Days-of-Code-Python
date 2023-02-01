@@ -6,6 +6,10 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 40: Flight Club
+User sign up: [Click here](https://replit.com/@denisecancode/DeniseFlightClub?v=1)
+Main repository: [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-40-Flight-Club)
+
 ### Day 39: Flight Deal
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-39-Flight-Deal)
 
@@ -114,7 +118,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ### Day 3: Treasure Island
 
-[Click here](https://replit.com/@denisecancode/DeniseTreasureIsland?v=1 )
+[Click here](https://replit.com/@denisecancode/DeniseTreasureIsland?v=1)
 
 ### Day 2: Tip Calculator
 
