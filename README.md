@@ -7,7 +7,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 ## HTML/CSS projects
 
 ### Day 41-43: Personal Site
-[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-41-43-Personal-Site)
+[Click here](https://denisecodes.github.io/Personal-Site/)
 
 ## Intermediate+ projects
 
