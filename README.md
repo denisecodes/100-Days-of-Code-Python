@@ -11,6 +11,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 45: Scrap Movie
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-45-Scrap-Movie)
+
 ### Day 40: Flight Club
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-40-Flight-Club)
 
