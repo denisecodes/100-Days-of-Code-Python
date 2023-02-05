@@ -16,7 +16,7 @@ with open("movies.txt", 'w') as file:
     for movie in movies:
         file.write(f"{movie}\n")
         
-# Print a random movie from top 100 movie list:
+# Select a random movie from top 100 movie list
 with open("movies.txt") as file:
     movies = file.readlines()
 
