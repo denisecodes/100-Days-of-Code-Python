@@ -11,7 +11,10 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
-### Day 45: Musical Time Machine
+### Day 47: Automated Amazon Price Tracker
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-47-Automated-Amazon-Price-Tracker)
+
+### Day 46: Musical Time Machine
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-46-Musical-Time-Machine)
 
 ### Day 45: Scrap Movie
