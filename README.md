@@ -11,6 +11,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 48: Cookie Clicker
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-48-Cookie-Clicker)
+
 ### Day 47: Automated Amazon Price Tracker
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-47-Automated-Amazon-Price-Tracker)
 
