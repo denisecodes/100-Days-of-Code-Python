@@ -11,6 +11,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 50: Automating Job Applications
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-50-Auto-Bumble-Swiping-Bot)
+
 ### Day 49: Automating Job Applications
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-49-Automating-Job-Applications)
 
