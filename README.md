@@ -56,12 +56,12 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
-## HTML/CSS projects
+### HTML/CSS projects
 
 ### Day 41-44: Personal Site
 [Click here](https://denisecodes.github.io/Personal-Site/)
 
-## Python projects
+### Python projects
 
 ### Day 31: Flash Card App
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-31-Flash-Card-App)
