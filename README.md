@@ -4,11 +4,6 @@ This is where I am keeping all the codes for my final projects from 100 Days of 
 
 Feel free to test them out and you can follow my journey on [Twitter](https://twitter.com/denise_codes)
 
-## HTML/CSS projects
-
-### Day 41-44: Personal Site
-[Click here](https://denisecodes.github.io/Personal-Site/)
-
 ## Intermediate+ projects
 
 ### Day 51: Internet Speed Twitter Complaint Bot
@@ -60,6 +55,13 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-32-Birthday-Wisher)
 
 ## Intermediate projects
+
+## HTML/CSS projects
+
+### Day 41-44: Personal Site
+[Click here](https://denisecodes.github.io/Personal-Site/)
+
+## Python projects
 
 ### Day 31: Flash Card App
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-31-Flash-Card-App)
