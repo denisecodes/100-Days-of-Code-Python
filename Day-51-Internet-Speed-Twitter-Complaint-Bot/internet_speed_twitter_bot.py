@@ -25,7 +25,6 @@ class InternetSpeedTwitterBot:
         # Retrieve download and upload speeds
         self.down = float(self.driver.find_element(by="css selector", value=".download-speed").text)
         self.up = float(self.driver.find_element(by="css selector", value=".upload-speed").text)
-        print(f"up:{self.up}")
 
     def tweet_at_provider(self, username, password):
         self.driver.get("https://twitter.com/i/flow/login")
