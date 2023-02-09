@@ -5,7 +5,6 @@ import time
 
 PROMISED_DOWN = 150
 PROMISED_UP = 10
-CHROME_DRIVER_PATH = "/Users/denisechan/Development/chromedriver"
 TWITTER_USERNAME = os.environ.get("USERNAME")
 TWITTER_PASSWORD = os.environ.get("PW")
 
