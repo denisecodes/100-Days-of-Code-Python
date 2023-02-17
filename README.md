@@ -6,7 +6,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
-### Day 54: Python Decorators Coding Exercise
+### Day 54: Python Decorators Exercise
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-54-Python-Decorators)
 
 ### Day 53: Data Job Entry Automation
