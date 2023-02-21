@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 55: Higher or Lower URLs
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-55-Higher-or-Lower-URLs)
+
 ### Day 54: Python Decorators Exercise
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-54-Python-Decorators)
 
