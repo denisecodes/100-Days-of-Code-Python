@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 56: Name Card
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-56-Name-Card)
+
 ### Day 55: Higher or Lower URLs
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-55-Higher-or-Lower-URLs)
 
@@ -156,13 +159,10 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 [Click here](https://replit.com/@denisecancode/DeniseRockPaperScissors?v=1)
 
 ### Day 3: Treasure Island
-
 [Click here](https://replit.com/@denisecancode/DeniseTreasureIsland?v=1)
 
 ### Day 2: Tip Calculator
-
 [Click here](https://replit.com/@denisecancode/DeniseTipCalculator?v=1)
 
 ### Day 1: Band Name Generator
-
 [Click here](https://replit.com/@denisecancode/DeniseBandNameGenerator?v=1)
