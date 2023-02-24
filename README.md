@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate+ projects
 
+### Day 57: Blog Templating
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-57-Blog-Templating)
+
 ### Day 56: Name Card
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-56-Name-Card)
 
