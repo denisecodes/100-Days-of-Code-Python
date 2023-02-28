@@ -4,6 +4,11 @@ This is where I am keeping all the codes for my final projects from 100 Days of 
 
 Feel free to test them out and you can follow my journey on [Twitter](https://twitter.com/denise_codes)
 
+## Advanced projects
+
+### Day 59: Blog Website
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-59-Upgraded-Blog)
+
 ## Intermediate+ projects
 
 ### Day 57: Blog Templating
