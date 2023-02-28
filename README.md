@@ -74,12 +74,17 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
-### HTML/CSS projects
+### Bootstrap and CSS
+
+### Day 58: Tingdog Website
+[Click here](https://github.com/denisecodes/Tindog-Website)
+
+### HTML/CSS
 
 ### Day 41-44: Personal Site
 [Click here](https://denisecodes.github.io/Personal-Site/)
 
-### Python projects
+### Python
 
 ### Day 31: Flash Card App
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-31-Flash-Card-App)
