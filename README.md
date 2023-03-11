@@ -6,7 +6,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
-### Day 59: Blog Website
+### Day 59-60: Blog Website
 [Click here](https://day-59-upgrade-blog.herokuapp.com/)
 
 ## Intermediate+ projects
