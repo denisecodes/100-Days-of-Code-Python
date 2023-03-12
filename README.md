@@ -6,7 +6,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
-## Day 61: Flask Secrets
+### Day 61: Flask Secrets
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-61-Flask-Secrets)
 
 ### Day 59-60: Blog Website
