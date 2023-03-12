@@ -10,7 +10,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-61-Flask-Secrets)
 
 ### Day 59-60: Blog Website
-[Click here](https://day-59-upgrade-blog.herokuapp.com/)
+[Click here](https://github.com/denisecodes/Upgraded-Blog)
 
 ## Intermediate+ projects
 
@@ -18,7 +18,7 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-57-Blog-Templating)
 
 ### Day 56: Name Card
-[Click here](https://name-card.herokuapp.com/)
+[Click here](https://github.com/denisecodes/Name-Card)
 
 ### Day 55: Higher or Lower URLs
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-55-Higher-or-Lower-URLs)
