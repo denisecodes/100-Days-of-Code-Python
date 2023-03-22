@@ -91,10 +91,12 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Intermediate projects
 
-### Bootstrap and CSS
+### Web Design
 
-### Day 64: Intro to Web Design
+### Day 65: Intro to Web Design
 [Click here](https://www.canva.com/design/DAFd3EUoNHE/rJif5OTxbkFS0q-orbhTQg/view?website#4:a-hotel)
+
+### Bootstrap and CSS
 
 ### Day 58: Tingdog Website
 [Click here](https://github.com/denisecodes/Tindog-Website)
