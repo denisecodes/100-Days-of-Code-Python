@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
+### Day 66: Cafe API
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-66-Cafe-API)
+
 ### Day 64: My Top 10 Movies Website
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-64-My-Top-10-Movies-Website)
 
