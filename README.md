@@ -9,6 +9,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 ### Day 68: Authentication with Flask
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-68-Authentication-with-Flask)
 
+### Day 67: Restful Blog
+[Click here](https://github.com/denisecodes/Day-67-Restful-Blog)
+
 ### Day 66: Cafe API
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-66-Cafe-API)
 
