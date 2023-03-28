@@ -6,8 +6,8 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
-### Day 69: Blog with Users
-[Click here](https://github.com/denisecodes/Day-69-Blog-with-Users)
+### Day 69-70: Blog with Users
+[Click here](https://github.com/denisecodes/Blog-with-Users)
 
 ### Day 68: Authentication with Flask
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-68-Authentication-with-Flask)
