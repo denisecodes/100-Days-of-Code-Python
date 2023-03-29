@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
+### Day 71: Data Exploration with Pandas
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-71-Data-Exploration-with-Pandas)
+
 ### Day 69-70: Blog with Users
 [Click here](https://github.com/denisecodes/Blog-with-Users)
 
