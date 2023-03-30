@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
+### Day 72: Data Visualisation with Matplotlib
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-72-Data-Visualisation-with-Matplotlib)
+
 ### Day 71: Data Exploration with Pandas
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-71-Data-Exploration-with-Pandas)
 
