@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
+### Day 75: Google Play Store Project
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-75-Google-Play-Store-Project)
+
 ### Day 74: Google Trends Data Viz
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-74-Google-Trends-Data-Viz)
 
