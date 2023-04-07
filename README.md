@@ -6,6 +6,9 @@ Feel free to test them out and you can follow my journey on [Twitter](https://tw
 
 ## Advanced projects
 
+### Day 76: Computation with NumPy
+[Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-76-Computation-with-NumPy)
+
 ### Day 75: Google Play Store Project
 [Click here](https://github.com/denisecodes/100-Days-of-Code-Python/tree/main/Day-75-Google-Play-Store-Project)
 
